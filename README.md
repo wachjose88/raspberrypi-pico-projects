@@ -9,3 +9,5 @@ are the following projects:
 blink.
 - **Button LED Toggle**: This is a very simple project for the Raspberry Pi Pico.
 It switches the integrated LED on and off if a physical button is pressed.
+- **Distance Sensor HC-SR04**: This is a library and its usage for the distance sensor
+HC-SR04. It measures the distance by using ultrasonic sounds.
