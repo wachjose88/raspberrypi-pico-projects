@@ -13,6 +13,8 @@ is labeled GND and should be connected to one of the GND pins.
 The trigger pin should be labeled to a GPIO output pin and the
 echo pin to a GPIO input pin.
 
+![wirering diagramm](/distance.png)
+
 At first it activates the trigger and then it waits for the echo.
 After that the time difference is calculated and multiplied by the speed of
 sound and divided by two, because the measuring sound travels to
